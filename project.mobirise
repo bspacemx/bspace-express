@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-24_1129",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -155,7 +155,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#toggle1-s\">FAQ<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\">Contacto<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#toggle1-s\">Nosotros<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#features7-23\">Servicios<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#features7-23\">Costos<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-11\">Contacto<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -222,7 +222,7 @@
               "family": "icon54",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "100",
               "color": "#00fecb"
             }
           },
@@ -234,7 +234,7 @@
               "family": "icon54",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "100",
               "color": "#00fecb"
             }
           },
@@ -246,7 +246,7 @@
               "family": "icon54",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "100",
               "color": "#00fecb"
             }
           },
@@ -258,7 +258,7 @@
               "family": "icon54",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "100",
               "color": "#00fecb"
             }
           },
@@ -286,16 +286,16 @@
           },
           "title": "BSpace",
           "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "Somos realmente veloces",
+          "caption1": "Sabemos de la urgencia de tu proyecto, cuenta con nosotros",
           "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "Equipo especializado",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "mejor calidad al mejor precio",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "soporte técnico",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -348,7 +348,8 @@
               "font-size": "36px"
             },
             ".mbr-section-text B": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "color": "#666666"
             },
             ".mbr-section-text": {
               "font-size": "24px"
@@ -433,6 +434,9 @@
             },
             ".mbr-section-title B": {
               "font-size": "36px"
+            },
+            ".mbr-section-text B": {
+              "color": "#666666"
             }
           },
           "_params": {
@@ -591,7 +595,10 @@
               "font-size": "20px"
             },
             ".mbr-section-title": {
-              "font-size": "72px"
+              "font-size": "60px"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#00fecb"
             }
           },
           "_params": {
@@ -614,8 +621,8 @@
             "overlayOpacity": 0.9
           },
           "title": "¿Tienes una empresa y necesitas un aporte más específico?",
-          "text": "¿Estás buscando un aliado para el desarrollo de tu idea?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Bspace Digital Agency puede ayudarte</a>",
+          "text": "<b>¿Estás buscando un aliado para el desarrollo de tu idea?</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Bspace Digital Agency puede ayudarte</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -777,6 +784,9 @@
             },
             ".mbr-section-text": {
               "text-align": "center"
+            },
+            ".mbr-section-text B": {
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -802,8 +812,8 @@
             "overlayOpacity": "0.8"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Mobirise<br>Website<br>Builder",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<b>BSpace</b> <i>Express</i>",
+          "text": "<b style=\"font-style: normal;\">¡Trabajamos a la velocidad de la luz!</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -880,7 +890,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#toggle1-s\">FAQ<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\">Contacto<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#toggle1-s\">Nosotros<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#features7-23\">Servicios<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#features7-23\">Costos<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-11\">Contacto<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -916,6 +926,9 @@
             },
             ".mbr-section-title, .tab-pane": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#002146"
             }
           },
           "_params": {
@@ -938,7 +951,7 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<br>What is Mobirise?",
+          "title": "<br>¿En qué consiste?",
           "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit asperiores itaque vero facere laudantium voluptas temporibus mollitia, nisi deleniti illo minima quisquam corporis possimus nesciunt.",
           "title1": "Propuestas de Logotipo",
           "title2": "100% Personalizado",
@@ -1099,6 +1112,9 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-section-title": {
+              "color": "#002146"
             }
           },
           "_params": {
@@ -1135,7 +1151,7 @@
               "title": ""
             }
           },
-          "title1": "Todo comienza con el Brief",
+          "title1": "<b>Todo comienza con el Brief</b>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Cuéntanos sobre tu proyecto, tus necesidades y preferencias. ¡Nuestros expertos diseñarán de forma única y a la medida para ti.",
           "number1": "1",
@@ -1175,6 +1191,9 @@
             },
             ".mbr-section-title": {
               "text-align": "left"
+            },
+            ".mbr-section-title B": {
+              "color": "#002146"
             }
           },
           "_params": {
@@ -1208,7 +1227,7 @@
               "active": true
             }
           },
-          "title1": "Realiza tu pago en línea",
+          "title1": "<b>Realiza tu pago en línea</b>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Seras notificado con los detalles de tu solicitud, tu fecha de entrega y tus credenciales para descarga.",
           "number1": "1",
@@ -1244,6 +1263,9 @@
               "text-transform": "uppercase"
             },
             ".mbr-section-text B": {
+              "color": "#002146"
+            },
+            ".mbr-section-title B": {
               "color": "#002146"
             }
           },
@@ -1315,6 +1337,9 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-section-title B": {
+              "color": "#002146"
             }
           },
           "_params": {
@@ -1351,7 +1376,7 @@
               "title": ""
             }
           },
-          "title1": "¡Tus propuestas están listas!",
+          "title1": "<b>¡Tus propuestas están listas!</b>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Te notificaremos vía email una vez que tus propuestas estén terminadas para que puedas verlas.",
           "number1": "1",
@@ -1385,6 +1410,9 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-section-title B": {
+              "color": "#002146"
             }
           },
           "_params": {
@@ -1421,7 +1449,7 @@
               "title": ""
             }
           },
-          "title1": "Revisa con detenimiento",
+          "title1": "<b>Revisa con detenimiento</b>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Ingresa a Bspace Cloud con el usuario y contraseña que te proporcionamos. Disfruta con detenimiento de tus propuestas y selecciona la que es perfecta para ti.<br><b>¡Tu logotipo está listo!</b>",
           "number1": "1",
@@ -1455,6 +1483,9 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-section-title B": {
+              "color": "#002146"
             }
           },
           "_params": {
@@ -1491,7 +1522,7 @@
               "title": ""
             }
           },
-          "title1": "Descarga tus archivos",
+          "title1": "<b>Descarga tus archivos</b>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<b>Houston….Estamos listos para despegar</b>",
           "number1": "1",
@@ -1557,7 +1588,8 @@
             "Theme"
           ],
           "_name": "call5",
-          "_anchor": "call5-u"
+          "_anchor": "call5-u",
+          "_customCSS": ".mbr-section-text {\n    color: #fff;\n}"
         },
         {
           "_styles": {
@@ -1589,7 +1621,7 @@
           "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
           "title": "<b>Houston, tenemos un problema</b>",
           "subtitle": "",
-          "text": "Sabemos que viajar a la luna (y conquistar nuevos planetas) no es tarea fácil. Consulta a nuestros expertos. Soporte significa que siempre estamos disponibles para ayudarte.",
+          "text": "Sabemos que viajar a la luna (y conquistar nuevos planetas) no es tarea fácil.<br>Consulta a nuestros expertos. Soporte significa que siempre estamos disponibles para ayudarte.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "danns.andrade@gmail.com",
@@ -1835,7 +1867,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#toggle1-s\">FAQ<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\">Contacto<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#toggle1-s\">Nosotros<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#features7-23\">Servicios<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#features7-23\">Costos<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-11\">Contacto<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,

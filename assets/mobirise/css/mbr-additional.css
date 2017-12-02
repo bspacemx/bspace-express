@@ -807,6 +807,7 @@ blockquote {
 }
 #features7-k .mbr-section-text B {
   font-size: 24px;
+  color: #666666;
 }
 #features7-k .mbr-section-text {
   font-size: 24px;
@@ -827,6 +828,9 @@ blockquote {
 }
 #features8-j .mbr-section-title B {
   font-size: 36px;
+}
+#features8-j .mbr-section-text B {
+  color: #666666;
 }
 #call6-n .subtitle {
   font-size: 22px;
@@ -866,7 +870,10 @@ blockquote {
   font-size: 20px;
 }
 #call3-y .mbr-section-title {
-  font-size: 72px;
+  font-size: 60px;
+}
+#call3-y .mbr-section-subtitle B {
+  color: #00fecb;
 }
 #form2-11 .mbr-section-subtitle {
   text-transform: uppercase;
@@ -895,6 +902,9 @@ blockquote {
 }
 #header1-26 .mbr-section-text {
   text-align: center;
+}
+#header1-26 .mbr-section-text B {
+  font-size: 18px;
 }
 #menu-o .hide-buttons .nav-btn {
   display: none !important;
@@ -975,11 +985,17 @@ blockquote {
 #header9-1e .tab-pane {
   color: #000;
 }
+#header9-1e .mbr-section-title {
+  color: #002146;
+}
 #features7-23 .lead {
   color: #9fa3a7;
 }
 #features7-23 .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#features7-23 .mbr-section-title {
+  color: #002146;
 }
 #features8-24 .lead {
   color: #9fa3a7;
@@ -993,6 +1009,9 @@ blockquote {
 #features8-24 .mbr-section-title {
   text-align: left;
 }
+#features8-24 .mbr-section-title B {
+  color: #002146;
+}
 #features7-27 .lead {
   color: #9fa3a7;
 }
@@ -1002,11 +1021,17 @@ blockquote {
 #features7-27 .mbr-section-text B {
   color: #002146;
 }
+#features7-27 .mbr-section-title B {
+  color: #002146;
+}
 #features8-28 .lead {
   color: #9fa3a7;
 }
 #features8-28 .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#features8-28 .mbr-section-title B {
+  color: #002146;
 }
 #features7-29 .lead {
   color: #9fa3a7;
@@ -1014,11 +1039,17 @@ blockquote {
 #features7-29 .mbr-section-subtitle {
   text-transform: uppercase;
 }
+#features7-29 .mbr-section-title B {
+  color: #002146;
+}
 #features8-2a .lead {
   color: #9fa3a7;
 }
 #features8-2a .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#features8-2a .mbr-section-title B {
+  color: #002146;
 }
 #call5-u .mbr-section-text {
   font-size: 24px;
@@ -1026,6 +1057,9 @@ blockquote {
 }
 #call5-u .mbr-section-title B {
   color: #ffffff;
+}
+#call5-u .mbr-section-text {
+  color: #fff;
 }
 #form2-14 .mbr-section-subtitle {
   text-transform: uppercase;
